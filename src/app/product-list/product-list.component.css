@@ -1,0 +1,156 @@
+mat-cell:first-of-type {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+mat-grid-tile {
+  background: lightblue;
+}
+span.mat-button-wrapper {
+  color: white !important;
+}
+td.mat-cell {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+td.mat-cell:first-of-type {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+td.mat-cell:last-of-type {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.add-button {
+  color: white !important;
+  margin-top: 5px;
+  background-color: blanchedalmond;
+  width: 70px;
+  max-width: 70px;
+  text-align: center;
+}
+
+.blockContainer {
+  display: block;
+}
+
+.color-white {
+  color: white !important;
+}
+
+.del-button-width {
+  width: 85px;
+}
+
+.delete-button {
+  color: white !important;
+  margin-top: 5px;
+  background-color: yellow;
+  width: 70px;
+  max-width: 70px;
+  text-align: center;
+}
+
+.end-month {
+  display: inline-block;
+  margin-top: 10px;
+  text-transform: capitalize;
+  width: 80px;
+}
+.end-year {
+  display: inline-block;
+  margin-top: 10px;
+  text-transform: capitalize;
+  width: 80px;
+}
+
+.lblVal {
+  display: inline-block;
+  margin-top: 10px;
+  text-transform: capitalize;
+  width: 80px;
+}
+
+.mgnLeft5 {
+  margin-left: 5px;
+  width: 65px;
+}
+
+.mgnLeft15 {
+  margin-left: 15px;
+}
+
+.pctg-width {
+  width: 10px;
+}
+
+.position-width {
+  width: 40px !important;
+}
+
+.ticker-width {
+  width: 90px !important;
+  padding-right: 25px;
+}
+
+.totrtn-width {
+  width: 80px !important;
+  max-width: 80px !important;
+  text-align: right !important;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.weight-width {
+  width: 50px !important;
+  max-width: 50px !important;
+  text-align: right !important;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.wid-70 {
+  width: 70px !important;
+}
+.wid-90 {
+  width: 90px !important;
+}
+
+th.mat-header-cell:first-of-type {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+th.mat-header-cell:last-of-type {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+th.mat-header-cell {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.td-right {
+  text-align: right;
+}
+.th-right {
+  text-align: right !important;
+}
+td.mat-column-weight {
+  text-align: right;
+  width: 50px;
+}
+td.mat-column-totrtn {
+  text-align: right;
+  width: 80px;
+}
+td.mat-column-annrtn {
+  text-align: right;
+  width: 60px;
+}
+
+element.style {
+  color: white;
+}
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
